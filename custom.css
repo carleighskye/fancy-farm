@@ -1,0 +1,63 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-primary {
+	background-image: url("farmlandscape.jpg") !important;
+	background-size: cover;
+}
+
+.veggiepic {height: 300px; float: left !important; margin-right: 30px}
+
+.carousel-inner {
+	width: 500px; height: 300px
+}
+
+#mainNav {background-color: #743419 !important;}
+
+body {
+	font-family: "farmhand", serif;
+font-weight: 400;
+font-style: normal;
+color: #2d3a38;
+}
+
+p {font-family: "linotype-vectora", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px !important; 
+color: #2d3a38;
+}
+
+h4{font-size:22px !important}
+
+.btn-primary {background-color: #c64304; border: none}
+.btn-primary:hover, 
+.btn-primary:active,
+.btn-primary:focus {background-color: #C4936D !important; box-shadow: none !important; border: none}
+
+#services ul {
+	font-family: "linotype-vectora", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px !important;
+}
+
+
+#events, #more, #about {background-color: #D5B16C !important}
+#services, #special {background-color:#F0DAAE !important }
+
+.indent {margin-left: 40px !important;
+
+}
+
+.type {color: white;}
+
+.modal-title {font-family: "farmhand"}
+.modal-body {font-family: "linotype-vectora"}
+
+
+
+
+
+
+
+
+
